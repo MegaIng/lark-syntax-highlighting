@@ -14,6 +14,7 @@ To install, you just need to download the .jar file and go in you IDE go to `Set
 - [x] Correct Syntax-Highlighting
     * improvements are still requierd
     * can be modified in Settings->Editor->Color Scheme->Lark
+- [ ] Add template syntax support   
 - [ ] Auto-completion inside of lark files
     * mostly done, should be finished soon
 - [ ] [Maybe/Very Late] Python integration, especially in regard to Transformers
